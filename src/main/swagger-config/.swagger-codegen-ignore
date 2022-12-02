@@ -1,0 +1,5 @@
+#We want to generate the swagger UI using the contract not annotations
+**/HomeController.java
+**/SwaggerDocumentationConfig.java
+**/SwaggerUiConfiguration.java
+**/Swagger2SpringBoot.java
